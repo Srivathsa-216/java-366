@@ -1,6 +1,5 @@
 //Problem: Given an array of N + 1 size, where each element is between 1 and N. Assuming there is only one duplicate number, your task is to find the duplicate number.
 
-
 class DuplicateElementinArray {
     public static int findDuplicate(int[] nums) {
         int slow = nums[0];
